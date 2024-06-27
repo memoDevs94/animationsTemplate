@@ -1,0 +1,9 @@
+<svg
+    xmlns = "http://www.w3.org/2000/svg"
+    xmlns:xlink = "http://www.w3.org/1999/xlink"
+    width = "35"
+    height = "35"
+    >
+
+    <circle cx="17.5" cy="17.5" r="3" fill = "#2196F3"/>
+</svg>
